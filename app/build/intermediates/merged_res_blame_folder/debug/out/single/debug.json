@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_activity_alpha.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_g4.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\g4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_nai2.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\nai2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_sunset.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\sunset.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_mom4.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\mom4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_masai2.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\masai2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_activity_mombasa.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_mombasa.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_zebras.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\zebras.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_wild.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\wild.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_flag.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\flag.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_masai3.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\masai3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_fort3.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\fort3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_activity_giraffecenter.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_giraffecenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_g3.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\g3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_beest.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\beest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_fort4.jpeg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\fort4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_activity_nairobi.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_nairobi.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_g6.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\g6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_g2.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\g2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_masai.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\masai.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_fort1.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\fort1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_mom2.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\mom2.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_mara.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\mara.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_masai4.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\masai4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_mom.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\mom.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_g5.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\g5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-pngs-30:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_thematic.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\thematic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_back.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_nai3.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\nai3.jpg"
+    },
+    {
+        "merged": "com.example.visitkenya.app-merged_res-35:/layout_activity_main_activitytr.xml.flat",
+        "source": "com.example.visitkenya.app-main-37:/layout/activity_main_activitytr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_activity_fort_jesus.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_fort_jesus.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_fort2.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\fort2.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_mom3.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\mom3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_nairobi.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\nairobi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\layout_activity_main_activitytr.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_main_activitytr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_g1.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\g1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-merged_res-35:\\drawable_yellow.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\drawable\\yellow.webp"
+    }
+]

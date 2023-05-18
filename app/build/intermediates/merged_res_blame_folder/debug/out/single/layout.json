@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\activity_giraffecenter.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_giraffecenter.xml"
+    },
+    {
+        "merged": "com.example.visitkenya.app-mergeDebugResources-34:/layout/activity_main_activitytr.xml",
+        "source": "com.example.visitkenya.app-main-37:/layout/activity_main_activitytr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\activity_nairobi.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_nairobi.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\activity_alpha.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\activity_main_activitytr.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_main_activitytr.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\activity_mombasa.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_mombasa.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\mara.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\mara.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-mergeDebugResources-34:\\layout\\activity_fort_jesus.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.5\\com.example.visitkenya.app-main-37:\\layout\\activity_fort_jesus.xml"
+    }
+]

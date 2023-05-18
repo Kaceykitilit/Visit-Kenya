@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861187639182",
+    "project_id": "visit-kenya-bb932",
+    "storage_bucket": "visit-kenya-bb932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861187639182:android:2e35bc5e2cdaff24bf46df",
+        "android_client_info": {
+          "package_name": "com.example.visitkenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861187639182-gh1fvifm4r6fi2g2f0nljnms4osuq5jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtDyCwuTI6_dsQ9qHQ15k3Y2NCociAZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861187639182-gh1fvifm4r6fi2g2f0nljnms4osuq5jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

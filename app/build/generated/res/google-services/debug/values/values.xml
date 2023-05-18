@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">861187639182-gh1fvifm4r6fi2g2f0nljnms4osuq5jk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">861187639182</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRtDyCwuTI6_dsQ9qHQ15k3Y2NCociAZs</string>
+    <string name="google_app_id" translatable="false">1:861187639182:android:2e35bc5e2cdaff24bf46df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRtDyCwuTI6_dsQ9qHQ15k3Y2NCociAZs</string>
+    <string name="google_storage_bucket" translatable="false">visit-kenya-bb932.appspot.com</string>
+    <string name="project_id" translatable="false">visit-kenya-bb932</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Fort_Jesus" translatable="false">The Fort, built by the Portuguese in 1593-1596 to the designs of Giovanni Battista Cairati to protect the port of Mombasa, is one of the most outstanding and well preserved examples of 16th Portuguese military fortification and a landmark in the history of this type of construction. </string>
+    <string name="Girrafe_Centre" translatable="false">The Giraffe Centre is the creation of the African Fund for Endangered Wildlife (A.F.E.W. Kenya), a Kenyan non-profit organisation. Our main purpose is to educate Kenyan school children and youth on their countrys wildlife and environment, as well as give local and international visitors an opportunity to come into close contact with the worlds tallest species, the giraffe.</string>
+    <string name="Masai_Mara" translatable="false">
+        Maasai Mara, also sometimes spelled Masai Mara and locally known simply as The Mara, is a large national game reserve in Narok, Kenya, contiguous with the Serengeti National Park in Tanzania. It is named in honor of the Maasai people, the ancestral inhabitants of the area, who migrated to the area from the Nile Basin. Their description of the area when looked at from afar: "Mara" means "spotted" in the local Maasai language, due to the many short bushy trees which dot the landscape.
+
+Maasai Mara is one of the most famous and important wildlife conservation and wilderness areas in Africa, world-renowned for its exceptional populations of lion, leopard, cheetah and African bush elephant. It also hosts the Great Migration, which secured it as one of the Seven Natural Wonders of Africa, and as one of the ten Wonders of the World.
+
+The Greater Mara ecosystem encompasses areas known as the Maasai Mara National Reserve, the Mara Triangle, and several Maasai Conservancies, including Koiyaki, Lemek, Ol Chorro Oirowua, Mara North, Olkinyei, Siana, Maji Moto, Naikara, Ol Derkesi, Kerinkani, Oloirien, and Kimintet.
+    </string>
+    <string name="Mombasa_Raha" translatable="false">Mombasa is a coastal city in southeastern Kenya along the Indian Ocean. It was the first capital of British East Africa, before Nairobi was elevated to capital city status in 1907. It now serves as the capital of Mombasa County. The town is known as "the white and blue city" in Kenya.</string>
+    <string name="Nai" translatable="false">Nairobi  is the capital and largest city of Kenya. The name is derived from the Maasai phrase Enkare Nairobi, which translates to place of cool waters, a reference to the Nairobi River which flows through the city. The city proper had a population of 4,397,073 in the 2019 census,7 while the metropolitan area has a projected population in 2022 of 10.8 million.8 The city is commonly referred to as The Green City in the Sun.
+
+Nairobi was founded in 1899 by colonial authorities in British East Africa, as a rail depot on the Uganda - Kenya Railway.10 The town quickly grew to replace Mombasa as the capital of Kenya in 1907.11 After independence in 1963, Nairobi became the capital of the Republic of Kenya.12 During Kenya colonial period, the city became a centre for the colony coffee, tea and sisal industry.
+
+Nairobi is home of the Kenyan Parliament Buildings and hosts thousands of Kenyan businesses and over major international companies and organizations, including the United Nations Environment Programme and the United Nations Office at Nairobi (UNON). Nairobi is an established hub for business and culture. The Nairobi Securities Exchange (NSE) is one of the largest in Africa and the second-oldest exchange on the continent. It is Africas fourth-largest exchange in terms of trading volume, capable of making 10 million trades a day. It also contains the Nairobi National Park. Nairobi joined the UNESCO Global Network of Learning Cities in 2010.</string>
+    <string name="Nairobi2" translatable="false">Nairobi</string>
+    <string name="app_name" translatable="false">Visit Kenya</string>
+    <string name="default_web_client_id" translatable="false">861187639182-gh1fvifm4r6fi2g2f0nljnms4osuq5jk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">861187639182</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRtDyCwuTI6_dsQ9qHQ15k3Y2NCociAZs</string>
+    <string name="google_app_id" translatable="false">1:861187639182:android:2e35bc5e2cdaff24bf46df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRtDyCwuTI6_dsQ9qHQ15k3Y2NCociAZs</string>
+    <string name="google_storage_bucket" translatable="false">visit-kenya-bb932.appspot.com</string>
+    <string name="masai_mara" translatable="false">MASAI MARA</string>
+    <string name="project_id" translatable="false">visit-kenya-bb932</string>
+    <style name="Theme.VisitKenya" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="21">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

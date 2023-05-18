@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:background="@drawable/back"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="20dp"
+    android:layout_height="match_parent"
+    tools:context=".Giraffecenter">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Girrafe_Centre"
+            android:textSize="30dp" />
+
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="20sp"
+                >
+                <ImageView
+                    android:padding="20sp"
+                    android:layout_width="350sp"
+                    android:layout_height="350sp"
+                    android:src="@drawable/g1"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="20sp"/>
+                <ImageView
+                    android:padding="20sp"
+                    android:layout_width="350sp"
+                    android:layout_height="350sp"
+                    android:src="@drawable/g2"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="20sp"/>
+                <ImageView
+                    android:padding="20sp"
+                    android:layout_width="350sp"
+                    android:layout_height="350sp"
+                    android:src="@drawable/g3"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="20sp"/>
+                <ImageView
+                    android:padding="20sp"
+                    android:layout_width="350sp"
+                    android:layout_height="350sp"
+                    android:src="@drawable/g4"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="20sp"/>
+                <ImageView
+                    android:padding="20sp"
+                    android:layout_width="350sp"
+                    android:layout_height="350sp"
+                    android:src="@drawable/g5"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="20sp"/>
+                <ImageView
+                    android:padding="20sp"
+                    android:layout_width="350sp"
+                    android:layout_height="350sp"
+                    android:src="@drawable/g6"
+                    android:scaleType="fitXY"
+                    android:layout_marginTop="20sp"/>
+
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+    </LinearLayout>
+</ScrollView>
+
